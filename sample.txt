@@ -1,2 +1,6 @@
 This is new Text
+<<<<<<< HEAD
 Added the new text
+=======
+This is added in git remote
+>>>>>>> 353133b5472d0918e3134da8b952c308f72d1810
