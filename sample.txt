@@ -4,5 +4,11 @@ Added the new text
 =======
 This is added in git remote
 >>>>>>> 353133b5472d0918e3134da8b952c308f72d1810
+<<<<<<< HEAD
 
 Second added in local repo
+=======
+This is second test added in git remote
+>>>>>>> 9ee356ca7e2b4545b02b4ee009b501b91da17703
+
+this is second
